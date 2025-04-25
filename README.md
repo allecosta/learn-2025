@@ -16,3 +16,4 @@
 - Algoritmos Para Viver - Brian Christian e Tom Griffiths (em andamento)
 - O Manual Secreto do Jogo
 - Burp Suite For Pentester - Ignite Technologies
+- Use a Cabeça (Head First) JavaScript - Michael Morrisson, O'REILLY (em andamento)
